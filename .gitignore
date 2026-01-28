@@ -1,0 +1,12 @@
+# ClubSuite ignore
+node_modules/
+vendor/
+dist/
+/js/
+*.log
+.phpunit.result.cache
+.DS_Store
+.vscode/
+.idea/\n
+# Added for RC packaging
+appinfo/signature.json

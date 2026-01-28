@@ -1,0 +1,10 @@
+{
+    "translations": {
+        "ClubSuite Core": "ClubSuite Core",
+        "Verein": "Verein",
+        "Member number": "Mitgliedsnummer",
+        "Entry date": "Eintrittsdatum",
+        "Status": "Status"
+    },
+    "pluralForm": "nplurals=2; plural=(n != 1);"
+}
